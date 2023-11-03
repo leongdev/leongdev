@@ -6,7 +6,6 @@
 Degree in Digital Games at the Potiguar University of Rio Grande do Norte (UNP), I've been working in the Video Game Industry since 2015, primarily as a generalist Game Developer, making cross-industry projects, serious games, and advergames in the mobile industry. Currently, I'm working as a Mobile Technical Lead at IT Crowd Argentina, focused on architecture design and implementation of new features for US-based companies.
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
 <img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
